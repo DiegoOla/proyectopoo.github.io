@@ -8,23 +8,23 @@ En su labor como programador de software ha sido elegido para el desarrollo de u
 ## Historia de Usuario Jira
 Aproximación Plantilla Historia de Usuario:
 
-![historia_usuario](https://github.com/Harrii-10/optica-poo.github.io/assets/136661680/b54911e9-cad4-4635-8e42-04773acca440)
+![HistoriaUsuario](https://github.com/DiegoOla/proyectopoo.github.io/assets/137132664/754b4df8-0e8d-40de-ac43-1c33bc4b3a89)
 
 
 ## Caso de Uso
 Aproximación Caso de Uso:
 
-![caso_uso](https://github.com/Harrii-10/optica-poo.github.io/assets/136661680/b22b3730-2f14-4267-aa38-f710a83e2c73)
+![CasoUso](https://github.com/DiegoOla/proyectopoo.github.io/assets/137132664/ef8a1db9-cf3b-4187-a1f9-a23ccaabda83)
 
 ## Diagrama de Flujo - Pseint
 Aproximación Diagrama de Flujo:
 
-![ddf](https://github.com/Harrii-10/optica-poo.github.io/assets/136661680/15d131f4-7d01-4be3-8c1b-d09c234fe002)
+![dfd](https://github.com/DiegoOla/proyectopoo.github.io/assets/137132664/f529700e-c774-4744-9be3-bb8b105d502a)
 
 ## Pseudocódigo
 Aproximación  Pseudocódigo:
 
-![pse](https://github.com/Harrii-10/optica-poo.github.io/assets/136661680/cef08a67-0b1d-48e0-a4a7-d5a6186aca79)
+![pseudocodigo](https://github.com/DiegoOla/proyectopoo.github.io/assets/137132664/f256b3de-c023-42be-aed2-9409e2acc244)
 
 DIEGO ALEJANDRO OLARTE ALMEIDA
 >INGENIERIA DE SISTEMAS
