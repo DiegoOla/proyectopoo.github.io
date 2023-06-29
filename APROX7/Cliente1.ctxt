@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Cliente1
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ EstudianteJardin\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=identificacion\ nombre\ sede\ calificacionuno\ calificaciondos
+comment1.target=Cliente1(java.lang.String,\ java.lang.String,\ java.lang.String,\ double,\ double)
+comment2.params=
+comment2.target=double\ calcularPromedio()
+comment3.params=
+comment3.target=double\ getCalificacionuno()
+comment4.params=Calificacionuno
+comment4.target=void\ setCalificacionuno(double)
+comment5.params=
+comment5.target=double\ getCalificaciondos()
+comment6.params=calificaciondos
+comment6.target=void\ setCalificaciondos(double)
+numComments=7
